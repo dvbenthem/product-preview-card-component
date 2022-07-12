@@ -36,9 +36,10 @@ Users should be able to:
 
 Added two screenshots of my design. 
 
-- Screenshot [desktop view](https://github.com/dvbenthem/product-preview-card-component/blob/c027c2644dc955e625f071a0924a592aa92f5a1a/screenshots/Desktop.png)
+- Screenshot [desktop view](https://github.com/dvbenthem/product-preview-card-component/blob/8119069ee1750d719b6469eb25c225378995f24e/screenshots/Desktop.jpeg)
 
 - Screenshot [mobile view](https://github.com/dvbenthem/product-preview-card-component/blob/46732fbd1ee8e809469f0f3366382711c58e15ec/screenshots/Mobile.png)
+
 
 
 ### Links
