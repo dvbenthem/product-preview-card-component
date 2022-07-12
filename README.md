@@ -33,7 +33,7 @@ Users should be able to:
 
 Added two screenshots of my design. 
 
-1) Screenshot desktop view
+1) Screenshot [desktop view](https://github.com/dvbenthem/product-preview-card-component/blob/c027c2644dc955e625f071a0924a592aa92f5a1a/screenshots/Desktop.png)
 
 2) Screenshot Mobile view
 
