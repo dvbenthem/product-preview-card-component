@@ -2,6 +2,9 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -39,7 +42,7 @@ Added two screenshots of my design.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://62cd22b674b59a50414e4094--bespoke-klepon-d06599.netlify.app/)
+- Solution URL: [Solution Product Previw Card](https://62cd22b674b59a50414e4094--bespoke-klepon-d06599.netlify.app/)
 
 
 ## My process
