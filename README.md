@@ -40,7 +40,7 @@ Added two screenshots of my design.
 ### Links
 
 - Solution URL: [Add solution URL here](https://62cd22b674b59a50414e4094--bespoke-klepon-d06599.netlify.app/)
-![] - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ## My process
 
