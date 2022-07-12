@@ -1,0 +1,24 @@
+/* All style tweaks for screens < 375px */
+@media screen and (max-width: 375px){
+  .preview-card{
+    margin-top: 16rem;
+  }
+  .grid{
+    grid-template-columns: 350px;
+  }
+  .card-content{
+    padding: 2.4rem;
+  }
+  .card-content h2{
+    font-size: 1.4rem;
+  }
+  .card-content h1{
+    margin-block: 1.5rem;
+    font-size: 2.8rem;
+  }
+  .card-content p{
+    font-size: 1.2rem;
+    line-height: 1.8;
+    width: 320px;
+  }
+}
