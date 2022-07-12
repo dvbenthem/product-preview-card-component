@@ -35,12 +35,12 @@ Added two screenshots of my design.
 
 1) Screenshot [desktop view](https://github.com/dvbenthem/product-preview-card-component/blob/c027c2644dc955e625f071a0924a592aa92f5a1a/screenshots/Desktop.png)
 
-2) Screenshot Mobile view
+2) Screenshot [mobile view](https://github.com/dvbenthem/product-preview-card-component/blob/46732fbd1ee8e809469f0f3366382711c58e15ec/screenshots/Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://62cd22b674b59a50414e4094--bespoke-klepon-d06599.netlify.app/)
+![] - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -50,12 +50,7 @@ Added two screenshots of my design.
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
